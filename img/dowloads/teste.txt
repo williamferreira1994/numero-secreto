@@ -1,0 +1,19 @@
+commit ea1a3b4b6f7ec25cbcf3ad65f5c5ff35490b1ab7 (HEAD -> main, origin/main, origin/HEAD)
+Author: wilwilpopcorn <wilwilpopcorn@outlook.com>
+Date:   Fri Jan 24 19:54:20 2025 -0300
+
+    Mudança de titulo e gitignore
+
+commit 24d1895d8554648ae2fc1609d52725b6ec171ee3
+Author: William Bello <110780151+williamferreira1994@users.noreply.github.com>
+Date:   Fri Jan 24 19:45:28 2025 -0300
+
+    Update README.md
+
+commit c3d5b6f644c94e55e53a8a04cfd2a50058a7e4af
+Author: wilwilpopcorn <wilwilpopcorn@outlook.com>
+Date:   Fri Jan 24 19:43:19 2025 -0300
+
+    Adicionando o README
+
+commit cc2ba73b38c592accf96db0e500d555f0aa01f55
